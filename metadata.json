@@ -1,0 +1,11 @@
+{
+  "name": "Friend Request",
+  "description": "An all-in-one social networking platform where users can chat, make calls, play games, share memories, and securely transfer payments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
